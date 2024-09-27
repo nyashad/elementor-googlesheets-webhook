@@ -40,9 +40,6 @@ var emailAddress = "youremail@gmail.com";
 /**
  * Google app-script to utilize Elementor Pro Forms webhook
  * For Usage see: https://github.com/pojome/elementor/issues/5894
- * Originally found: https://gist.github.com/bainternet/4b539b00a4bd7490ac3809d7ff86bd14
- * by bainternet
- * Minor tweaks to the directions by AvlSEONinja
  * Script updated and maintained by Nyashadzashe Ndhlovu
  */
  
