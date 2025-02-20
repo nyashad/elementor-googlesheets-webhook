@@ -21,8 +21,8 @@
    ***    EMAIL NOTIFICATIONS: 
             *  By default, email notifications are disabled.
             *  To enable them:
-              *  On line 37, change "false" to "true"
-              *  On line 40, replace "Change_to_your_Email" with your email address (keeping the quotes)
+              *  On line 35, change "false" to "true"
+              *  On line 38, replace "Change_to_your_Email" with your email address (keeping the quotes)
               *  Save the script again. Now you're set to collect those leads!
  */
 function doGet(e) {}
